@@ -6,9 +6,6 @@ Kuvaus:
 
 Ohjelma on salasanageneraattori johon käyttäjä syöttää salasanan pituuden ja siinä käytettävät merkit. 
 Tämän jälkeen ohjelma luo salasanan jonka se tallentaa tiedostoon
-
-puutuu: try... expect, tallennuspaikka?, oma github isoille projekteille ;)
-
 """
 
 from random import randint

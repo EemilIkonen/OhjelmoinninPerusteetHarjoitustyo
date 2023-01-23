@@ -175,7 +175,7 @@ def salasanageneraattori(montako):
             for i in salasananmerkit:
                 salasana += i 
             
-            file = open("exercises/Harkkatyo/salasana.txt", "a")
+            file = open("salasana.txt", "a")
             file.write(salasana + "\n")
             file.close()
             print("Salasana {} on nyt tallennettu tiedostoon salasana.txt alimmalle riville".format(x+1))
